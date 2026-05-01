@@ -1,3 +1,8 @@
 theme: minima
 title: Sudharshini Bioinformatics Blog
 description: RNA-seq | NGS | Bioinformatics Projects
+
+header_pages:
+  - index.md
+  - blog.md
+  - projects.md
