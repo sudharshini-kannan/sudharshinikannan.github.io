@@ -1,17 +1,23 @@
 # Hi, I'm Sudharshini 👩‍🔬
 Welcome to my Bioinformatics Blog!
 
-## 🧬 About Me
-M.Sc. Agrobiotechnology | Bioinformatics | RNA-Seq | NGS Analysis
+## About Me
+Bioinformatics | RNA-Seq | NGS Analysis | M.Sc. Agrobiotechnology
 
-## 🧬 Projects
-- RNA-Seq Differential Expression Analysis (DESeq2)
+## Featured Projects
+### 🧬 RNA-Seq Differential Expression Analysis
 
-## ✍️ Blog
-- [RNA-Seq Analysis](./2026/05/01/rnaseq.html)
+- DESeq2 workflow  
+- PCA, Volcano plot, Heatmap  
+- Real dataset (GSE60450)
+
+👉 [Read Blog](./2026/05/01/rnaseq.html)
 
 ## 📫 Contact
-Connect with me on LinkedIn
-www.linkedin.com/in/sudharshinikannan/
  
+- LinkedIn
+- www.linkedin.com/in/sudharshinikannan/
+  
+- GitHub
+-  https://github.com/sudharshini-kannan
  
