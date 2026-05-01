@@ -1,10 +1,16 @@
 # Hi, I'm Sudharshini 👩‍🔬
-
 Welcome to my Bioinformatics Blog!
 
-🚀 I will share:
-- RNA-Seq analysis
-- Bioinformatics pipelines
-- Data visualization projects
+## 🧬 About Me
+M.Sc. Agrobiotechnology | Bioinformatics | RNA-Seq | NGS Analysis
 
-Stay tuned!
+## 🧬 Projects
+- RNA-Seq Differential Expression Analysis (DESeq2)
+
+## ✍️ Blog
+- [RNA-Seq Analysis](./2026/05/01/rnaseq.html)
+
+## 📫 Contact
+Connect with me on LinkedIn
+ 
+ 
