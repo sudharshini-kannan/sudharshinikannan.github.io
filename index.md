@@ -12,6 +12,6 @@ M.Sc. Agrobiotechnology | Bioinformatics | RNA-Seq | NGS Analysis
 
 ## 📫 Contact
 Connect with me on LinkedIn
-https://www.linkedin.com/in/sudharshinikannan/
+www.linkedin.com/in/sudharshinikannan/
  
  
