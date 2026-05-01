@@ -8,6 +8,6 @@ title: Projects
 - Dataset: GSE60450
 - Tools: DESeq2, R, Python
 
-🔗 GitHub Repository: (add your repo link here)
+🔗 GitHub Repository: github.com/sudharshini-kannan/sudharshinikannan.github.io
 
 This project demonstrates differential gene expression analysis between pregnancy and lactation samples.
