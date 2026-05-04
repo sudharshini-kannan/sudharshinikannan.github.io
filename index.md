@@ -8,7 +8,7 @@ Bioinformatics | RNA-Seq | NGS Analysis | M.Sc. Agrobiotechnology
 ### 🧬 RNA-Seq Differential Expression Analysis
 
 - DESeq2 workflow  
-- PCA, Volcano plot, Heatmap  
+- PCA, Volcano plot
 - Real dataset (GSE60450)
 
 👉 [Read Blog](./2026/05/01/rnaseq.html)
